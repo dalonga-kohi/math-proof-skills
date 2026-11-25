@@ -1,0 +1,14 @@
+{
+  "name": "math-proof-skills",
+  "owner": {
+    "name": "dalonga-kohi"
+  },
+  "description": "Skills and agents for proving or disproving open math problems with LLMs and Lean 4.",
+  "plugins": [
+    {
+      "name": "math-proof-skills",
+      "source": "./",
+      "description": "LLM + Lean 4 research loop for open problems, with an orchestrated agent swarm."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "math-proof-skills",
+  "displayName": "Math Proof Skills",
+  "version": "0.1.0",
+  "description": "Prove or disprove open math problems with LLMs and Lean 4: intake, small cases, counterexample search, blueprints, Lean formalisation, a verification gate, novelty checks, write-ups, and an orchestrated multi-agent swarm.",
+  "author": { "name": "dalonga-kohi" },
+  "repository": "https://github.com/dalonga-kohi/math-proof-skills",
+  "license": "Apache-2.0",
+  "keywords": ["lean4", "mathlib", "theorem-proving", "erdos-problems", "formal-conjectures", "sat", "multi-agent"]
+}
